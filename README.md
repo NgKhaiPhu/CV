@@ -27,19 +27,19 @@ _Major in Computer Science - Artificial Intelligence_ <br>
 <br><br>
 
 ## 💻 Student projects
-[**TicTacToe with AI player**](https://github.com/NgKhaiPhu/TicTacToe-with-AI-player) @ Artificial Intelligence Fundamentals <br>
+[TicTacToe with AI player](https://github.com/NgKhaiPhu/TicTacToe-with-AI-player) @ Artificial Intelligence Fundamentals <br>
 Create a simple UI for tic-tac-toe with Pygame. Design a perfect tic-tac-toe AI player that always makes the optimal move by implementing Minimax algorithm
 <br><br>
 
-[**Data preprocessing**](https://github.com/NgKhaiPhu/Data-preprocessing) @ Data Mining and Applications <br>
+[Data preprocessing](https://github.com/NgKhaiPhu/Data-preprocessing) @ Data Mining and Applications <br>
 Implementing some utility functions that are often used in Data preprocessing
 <br><br>
 
-[**Frequent Itemset Mining**](https://github.com/NgKhaiPhu/Frequent-Itemset-Mining) @ Data Mining and Applications <br>
+[Frequent Itemset Mining](https://github.com/NgKhaiPhu/Frequent-Itemset-Mining) @ Data Mining and Applications <br>
 Find all frequent itemsets from a data set by implementing Apriori algorithm. Common machine learning library in Python (such as sklearn, mlxtend,...) are not allowed in this project
 <br><br>
 
-[**Classification & Clustering**](https://github.com/NgKhaiPhu/Classification-and-Clustering) @ Data Mining and Applications <br>
+[Classification & Clustering](https://github.com/NgKhaiPhu/Classification-and-Clustering) @ Data Mining and Applications <br>
 Implementing ID3 algorithm and K-means clustering
 <br><br>
 
