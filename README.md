@@ -3,6 +3,8 @@
 _3rd year Student at University of Science, HCMC (HCMUS)_ <br>
 _Major in Computer Science - Artificial Intelligence_ <br>
 
+[Email](mailto:nkphu243373@gmail.com) / [LinkedIn](https://www.linkedin.com/in/phu-nguyen-a91680263/) / [GitHub](https://github.com/NgKhaiPhu)
+
 ## 🎓 Education
 [University of Science, HCMC](https://www.hcmus.edu.vn) _(Oct 2020 - Now)_ <br>
 - **GPA:** 3.78
